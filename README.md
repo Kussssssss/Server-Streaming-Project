@@ -17,8 +17,7 @@ This project implements a distributed machine learning system with two main comp
 ```
 ml_streaming_project/
 ├── data/                  # Dataset files
-│   ├── iris.csv           # Iris dataset
-│   └── california_housing.csv # California Housing dataset
+│   └── iris.csv           # Iris dataset
 ├── sender/                # Data sender server
 │   ├── __init__.py
 │   ├── dataset.py         # Dataset handling
